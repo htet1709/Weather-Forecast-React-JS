@@ -18,7 +18,8 @@ A responsive weather forecast web application designed to provide real-time weat
 - **Fast & Lightweight:** Built for speed and smooth navigation.
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Frontend:** React 19 + Vite , Tailwind CSS (V4)
+- **API** - WeatherAPI
 - **Hosting / Deployment:** Netlify
 
 ---
@@ -37,11 +38,7 @@ A responsive weather forecast web application designed to provide real-time weat
 - **高速＆軽量:** スムーズで快適な操作感を提供します。
 
 ### 🛠️ 使用技術 (Tech Stack)
-- **フロントエンド:** HTML5, CSS3, JavaScript (ES6+)
+- **フロントエンド:** React 19 + Vite , Tailwind CSS (V4)
+- **外部API** -  WeatherAPI
 - **ホスティング / デプロイ:** Netlify
 
-- | Feature | Status |
-| :--- | :---: |
-| Real-time Weather | ✅ |
-| 5-Day Forecast | ✅ |
-| Dark Mode | 🚧 In Progress |
