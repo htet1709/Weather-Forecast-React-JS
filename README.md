@@ -35,8 +35,10 @@ A responsive weather forecast web application designed to provide real-time weat
 
 🌐 **ライブデモ:** [weather-forecat-0520.netlify.app](https://weather-forecat-0520.netlify.app/)
 
-### 🔮 今後改善したい点
-- [ ] **天候連動型背景:** 現在の天気（晴れ、雨、曇り、雪など）に応じて、ウェブサイトの背景壁紙を自動的に切り替える機能。
+### 🛠️ 使用技術 (Tech Stack)
+- **フロントエンド:** React 19 + Vite , Tailwind CSS (V4)
+- **外部API** -  WeatherAPI
+- **ホスティング / デプロイ:** Netlify
 
 ### ✨ 主な機能
 - **リアルタイム天気表示:** お好きな都市の現在の天気を正確に取得します。
@@ -44,8 +46,8 @@ A responsive weather forecast web application designed to provide real-time weat
 - **レスポンシブ対応:** PC、タブレット、スマートフォン等、あらゆるデバイスに最適化されています。
 - **高速＆軽量:** スムーズで快適な操作感を提供します。
 
-### 🛠️ 使用技術 (Tech Stack)
-- **フロントエンド:** React 19 + Vite , Tailwind CSS (V4)
-- **外部API** -  WeatherAPI
-- **ホスティング / デプロイ:** Netlify
+### 🔮 今後改善したい点
+- [ ] **天候連動型背景:** 現在の天気（晴れ、雨、曇り、雪など）に応じて、ウェブサイトの背景壁紙を自動的に切り替える機能。
+
+
 
