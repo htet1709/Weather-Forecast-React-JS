@@ -17,6 +17,9 @@ A responsive weather forecast web application designed to provide real-time weat
 - **Responsive Design:** Fully optimized for desktop, tablet, and mobile devices.
 - **Fast & Lightweight:** Built for speed and smooth navigation.
 
+Future Improvements
+- [ ] **Dynamic Weather Backgrounds:** Automatically change the website background/wallpaper according to the current weather condition (e.g., sunny, rainy, cloudy, snowy)
+
 ### 🛠️ Tech Stack
 - **Frontend:** React 19 + Vite , Tailwind CSS (V4)
 - **API** - WeatherAPI
